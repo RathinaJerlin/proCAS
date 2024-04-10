@@ -1,0 +1,10 @@
+12:16:43.902 [main] INFO  TestBase.BaseClass - Validating Language List
+12:16:43.909 [main] INFO  TestBase.BaseClass - Test Passed
+12:16:43.909 [main] DEBUG TestBase.BaseClass - Application logs end.......
+12:16:43.909 [main] INFO  TestBase.BaseClass - **** Finished TC_4_ValidateLanguageList ****
+12:16:44.051 [main] INFO  TestBase.BaseClass - **** Starting TC_5_ValidateGSDDetails ****
+12:16:44.052 [main] DEBUG TestBase.BaseClass - Application logs started......
+12:16:51.803 [main] INFO  TestBase.BaseClass - Validating Tooltips
+12:16:51.803 [main] INFO  TestBase.BaseClass - Test Passed
+12:16:51.803 [main] DEBUG TestBase.BaseClass - Application logs end.......
+12:16:51.806 [main] INFO  TestBase.BaseClass - **** Finished TC_5_ValidateGSDDetails ****
